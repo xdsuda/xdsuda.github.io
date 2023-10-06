@@ -1,5 +1,10 @@
 const playlist = [
   {
+    title: "Never Gonna Give You Up",
+    file: "clone_files/audio_4.mp3",
+    artist: "Rick Astley",
+  },
+  {
     title: "MELTDOWN ft. Drake",
     file: "clone_files/audio_3.mp3",
     artist: "Travis Scott",

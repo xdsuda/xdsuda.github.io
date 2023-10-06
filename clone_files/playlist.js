@@ -4,11 +4,6 @@ const playlist = [
     file: "audio_4.mp3",
     artist: "Rick Astley",
   },
-  {
-    title: "MELTDOWN ft. Drake",
-    file: "clone_files/audio_3.mp3",
-    artist: "Travis Scott",
-  },
 ];
 
 function _0x1c6e(_0x39e522, _0x4608d8) {
